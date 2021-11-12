@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="19px" viewBox="0 0 15 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>arrow-left-blue-solid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#02B3E4">
+            <g id="arrow-left-blue-solid" transform="translate(7.500000, 9.500000) rotate(-180.000000) translate(-7.500000, -9.500000) ">
+                <path d="M13.62,11.1 L3.95,18.35 C3.34396471,18.8045265 2.53314087,18.8776384 1.85557281,18.5388544 C1.17800475,18.2000704 0.75,17.5075441 0.75,16.75 L0.75,2.25 C0.75,1.49245588 1.17800475,0.799929646 1.85557281,0.461145618 C2.53314087,0.12236159 3.34396471,0.19547353 3.95,0.65 L13.62,7.9 C14.1236117,8.27770876 14.42,8.87048539 14.42,9.5 C14.42,10.1295146 14.1236117,10.7222912 13.62,11.1 L13.62,11.1 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

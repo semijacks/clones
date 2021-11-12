@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="302" height="205" viewBox="0 0 302 205" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <ellipse id="a" cx="9.355716" cy="51.544912" rx="5.077057" ry="4.544912"/>
+    <mask id="q" width="10.154114" height="9.089824" x="0" y="0" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M0 0h43.96252v126.148872H0z"/>
+    <mask id="r" width="43.96252" height="126.148872" x="0" y="0" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M0 85.656642h43.96252V98.11579H0z"/>
+    <mask id="s" width="43.96252" height="12.459148" x="0" y="0" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path id="d" d="M0 95.001003h43.96252v12.459148H0z"/>
+    <mask id="t" width="43.96252" height="12.459148" x="0" y="0" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <path id="e" d="M0 .001697h36.11207v98.11579H0z"/>
+    <mask id="u" width="36.11207" height="98.11579" x="0" y="0" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <path id="f" d="M0 68.525313h36.11207v9.34436H0z"/>
+    <mask id="v" width="36.11207" height="9.344361" x="0" y="0" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+    <path id="g" d="M10.99063 80.98446h15.7009v9.344362h-15.7009z"/>
+    <mask id="w" width="15.7009" height="9.344361" x="0" y="0" fill="#fff">
+      <use xlink:href="#g"/>
+    </mask>
+    <path id="h" d="M103.62594 39.082707H4.71027S.539718 28.078897.539718 18.709597 4.71027.14787 4.71027.14787h98.91567"/>
+    <mask id="x" width="103.086222" height="38.934837" x="0" y="0" fill="#fff">
+      <use xlink:href="#h"/>
+    </mask>
+    <ellipse id="i" cx="15.7009" cy="15.573935" rx="15.7009" ry="15.573935"/>
+    <mask id="y" width="31.4018" height="31.14787" x="0" y="0" fill="#fff">
+      <use xlink:href="#i"/>
+    </mask>
+    <path id="j" d="M45.8953 4.816304C43.036466 1.848612 39.006866 0 34.54198 0c-4.019866 0-7.686892 1.49847-10.464325 3.962998"/>
+    <mask id="z" width="21.817644" height="4.816304" x="0" y="0" fill="#fff">
+      <use xlink:href="#j"/>
+    </mask>
+    <ellipse id="k" cx="53.38306" cy="15.573935" rx="15.7009" ry="15.573935"/>
+    <mask id="A" width="31.4018" height="31.14787" x="0" y="0" fill="#fff">
+      <use xlink:href="#k"/>
+    </mask>
+    <path id="l" d="M53.38306 6.229574c-5.20282 0-9.42054 4.183613-9.42054 9.34436"/>
+    <mask id="B" width="9.42054" height="9.344361" x="0" y="0" fill="#fff">
+      <use xlink:href="#l"/>
+    </mask>
+    <path id="m" d="M15.7009 6.229574c-5.20282 0-9.42054 4.183613-9.42054 9.34436"/>
+    <mask id="C" width="9.42054" height="9.344361" x="0" y="0" fill="#fff">
+      <use xlink:href="#m"/>
+    </mask>
+    <path id="n" d="M33.13901 210.228197h57.993265v12.035456H33.13901z"/>
+    <mask id="D" width="57.993266" height="12.035456" x="0" y="0" fill="#fff">
+      <use xlink:href="#n"/>
+    </mask>
+    <path id="o" d="M73.479832 17.73683c2.303216-3.766692 6.041407-3.760247 8.340682 0l26.232562 42.900883c2.303216 3.766693.59833 6.8202-3.82919 6.8202H51.07646c-4.41802 0-6.128465-3.059952-3.82919-6.8202L73.47983 17.73683z"/>
+    <mask id="E" width="62.853167" height="52.543685" x="0" y="0" fill="#fff">
+      <use xlink:href="#o"/>
+    </mask>
+    <path id="p" d="M73.479832 17.73683c2.303216-3.766692 6.041407-3.760247 8.340682 0l26.232562 42.900883c2.303216 3.766693.59833 6.8202-3.82919 6.8202H51.07646c-4.41802 0-6.128465-3.059952-3.82919-6.8202L73.47983 17.73683z"/>
+    <mask id="F" width="62.853167" height="52.543685" x="0" y="0" fill="#fff">
+      <use xlink:href="#p"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(72.08 62.052)">
+      <path stroke="#91DAEE" d="M9.863422.5409v53.023973" stroke-linecap="square"/>
+      <use fill="#DCF4FB" stroke="#02B3E4" stroke-width="2" mask="url(#q)" xlink:href="#a"/>
+      <path stroke="#02B3E4" stroke-width=".5" d="M1.04501 48.20379l2.716524-.933048 1.615337 1.706314M.18677 52.07012l2.101723-2.033768 2.18948.82061m-3.475106 5.128313l1.35008-2.348895 2.611413-.230796m-1.255382 4.701242l.556295-3.062983 2.2698-.81617m11.13135-6.023883l-2.716524-.933048-1.61534 1.706314m5.1901 3.093064l-2.101726-2.033768-2.18948.82061m3.475105 5.128313l-1.35008-2.348895-2.611413-.230796m1.25538 4.701242l-.556294-3.062983-2.2698-.81617"/>
+    </g>
+    <g stroke="#06B2E2" stroke-width="4" transform="translate(257.46 78)">
+      <use fill="#06B2E2" fill-opacity=".14" mask="url(#r)" xlink:href="#b"/>
+      <use fill="#FFF" mask="url(#s)" xlink:href="#c"/>
+      <use fill="#FFF" mask="url(#t)" xlink:href="#d"/>
+    </g>
+    <g stroke="#06B2E2" stroke-width="4" transform="translate(215.066 106)">
+      <use fill="#FFF" mask="url(#u)" xlink:href="#e"/>
+      <use fill="#06B2E2" fill-opacity=".14" mask="url(#v)" xlink:href="#f"/>
+      <use mask="url(#w)" opacity=".3" xlink:href="#g"/>
+    </g>
+    <g transform="translate(102 165)">
+      <path fill="#FFF" d="M5 2h93.419965s-2.95166 12.21797-2.95166 18.5c0 6.28203 2.95166 17.889056 2.95166 17.889056L5 39S1.896527 25.69866 1.896527 19.009173 5 2 5 2z"/>
+      <use stroke="#06B2E2" stroke-width="4" mask="url(#x)" xlink:href="#h"/>
+      <path stroke="#06B2E2" stroke-width="2" d="M98.8433 3.262657s-2.968988 8.176315-2.968988 16.35263c0 8.176317 3.968986 17.352633 3.968986 17.352633" stroke-linecap="square"/>
+      <path stroke="#06B2E2" stroke-width="2" d="M35.327025 9.49223h59.66342m-58.09333 18.688723h42.39243m-21.98126-9.344363h36.11207m-45.53261 0h3.14018" stroke-linecap="round" stroke-linejoin="round" opacity=".14"/>
+    </g>
+    <g stroke="#06B2E2" stroke-width="4" transform="translate(119.063 134)">
+      <use fill="#FFF" mask="url(#y)" xlink:href="#i"/>
+      <use mask="url(#z)" xlink:href="#j"/>
+      <use fill="#FFF" mask="url(#A)" xlink:href="#k"/>
+      <use mask="url(#B)" xlink:href="#l"/>
+      <use mask="url(#C)" xlink:href="#m"/>
+    </g>
+    <g stroke="#91DAEE">
+      <path d="M1.71607 90.45145l39.139398 45.024727s-2.302312-8.111057 2.603017-15.697454c4.90533-7.586396 13.164062-10.43104 13.164062-10.43104s-8.196077-8.11514-6.246255-16.850603c1.949822-8.735465 9.267305-12.974274 9.267305-12.974274s-10.14032-6.388472-13.036044-13.004513c-2.895723-6.61604.794527-15.975198.794527-15.975198L1.71607 90.45145z"/>
+      <path d="M1.692864 90.424754l29.688768 34.15302s-1.727146-6.169287 2.040355-11.96439c3.7675-5.795102 10.075574-7.99069 10.075574-7.99069s-6.22167-6.151628-4.70397-12.81145c1.5177-6.65982 7.1129-9.91389 7.1129-9.91389s-7.71042-4.829745-9.89537-9.858334c-2.18494-5.028588.662197-12.169547.662197-12.169547l-34.98045 30.55528z"/>
+      <path d="M1.67055 90.399085L22.272484 114.0989s-1.19852-4.281056 1.415865-8.302453c2.61438-4.021397 6.99174-5.544982 6.99174-5.544982s-4.31741-4.2688-3.26423-8.890252c1.05318-4.62145 4.935854-6.87955 4.935854-6.87955s-5.350497-3.351506-6.866696-6.840996c-1.5162-3.48949.459515-8.444817.459515-8.444817L1.67055 90.399085z"/>
+      <path d="M1.648236 90.373415l11.5151 13.24661s-.66989-2.392824.791375-4.640515c1.46127-2.247692 3.90792-3.099274 3.90792-3.099274s-2.41314-2.385974-1.82448-4.969056c.588656-2.58308 2.75881-3.845207 2.75881-3.845207s-2.99057-1.873267-3.838022-3.823658c-.847454-1.95039.25684-4.720088.25684-4.720088L1.648238 90.373415zm.782836.104007l53.271613 18.641937M2.723033 90.44448l57.18986-11.108074"/>
+    </g>
+    <g stroke="#06B2E2" transform="translate(1.217 -18)">
+      <use fill="#DCF4FB" stroke-width="4" mask="url(#D)" xlink:href="#n"/>
+      <ellipse cx="96.387007" cy="53.039705" fill="#FFF" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" rx="12.969291" ry="12.895458"/>
+      <path fill="#FFF" fill-rule="nonzero" stroke-width="2" d="M65.51451 211.376767v-33.217674l-53.721375-69.13147 60.715143-70.064838 14.746807 14.911378 4.96119-4.848542L73.0176 29.60801 2.873774 108.51182l55.679978 72.51232v30.352627z" stroke-linecap="round" stroke-linejoin="round"/>
+      <use fill="#DCF4FB" stroke-width="4" mask="url(#E)" transform="rotate(-56 77.652 41.186)" xlink:href="#o"/>
+      <use fill="#DCF4FB" stroke-width="4" mask="url(#F)" transform="rotate(-56 77.652 41.186)" xlink:href="#p"/>
+      <ellipse cx="59.656127" cy="180.791911" fill="#DCF4FB" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" rx="7.632645" ry="7.589193"/>
+      <ellipse cx="7.709019" cy="108.659175" fill="#DCF4FB" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" rx="7.632645" ry="7.589193"/>
+    </g>
+  </g>
+</svg>

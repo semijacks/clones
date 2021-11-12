@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="678px" height="284px" viewBox="0 0 678 284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <defs>
+        <linearGradient x1="-10.8921941%" y1="67.0435123%" x2="169.692448%" y2="16.5442043%" id="linearGradient-1">
+            <stop stop-color="#02CCB1" offset="0%"></stop>
+            <stop stop-color="#A951ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-10.8921941%" y1="67.0435123%" x2="100%" y2="35.8613824%" id="linearGradient-2">
+            <stop stop-color="#02CCB1" offset="0%"></stop>
+            <stop stop-color="#A951ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="For-Individuals-v2---Desktop---Screen-1" transform="translate(117.000000, -430.000000)">
+            <g id="01_Hero" transform="translate(-116.607816, 13.000000)">
+                <g id="Background-Shapes" transform="translate(0.000000, 148.000000)">
+                    <g id="Group-8" transform="translate(0.000000, 269.852664)">
+                        <polygon id="Shape-1" fill="url(#linearGradient-1)" transform="translate(248.829813, 132.318596) scale(-1, 1) translate(-248.829813, -132.318596) " points="3.31507905e-13 0 497.659626 97.6567498 497.659626 264.637192 3.31507905e-13 162.76125"></polygon>
+                        <polygon id="Shape-2" fill="url(#linearGradient-2)" transform="translate(428.284524, 150.681404) scale(-1, 1) translate(-428.284524, -150.681404) " points="179.454711 18.3628077 677.114337 116.019557 677.114337 283 179.454711 181.124057"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

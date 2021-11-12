@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="555px" height="295px" viewBox="0 0 555 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape 3</title>
+    <defs>
+        <linearGradient x1="-10.8921941%" y1="67.0435123%" x2="169.692448%" y2="16.5442043%" id="linearGradient-1">
+            <stop stop-color="#02CCB1" offset="0%"></stop>
+            <stop stop-color="#A951ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="For-Individuals-v2---Desktop---Screen-1" transform="translate(-1062.000000, -161.000000)" fill="url(#linearGradient-1)">
+            <g id="01_Hero" transform="translate(-116.607816, 13.000000)">
+                <g id="Background-Shapes" transform="translate(0.000000, 148.000000)">
+                    <polygon id="Shape-3" transform="translate(1456.230853, 147.349304) scale(-1, 1) translate(-1456.230853, -147.349304) " points="1179.13526 0 1733.32644 108.750051 1733.32644 294.698608 1179.13526 181.250085"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
