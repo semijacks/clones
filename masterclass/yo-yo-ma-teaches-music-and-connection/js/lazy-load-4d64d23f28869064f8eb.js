@@ -1,0 +1,1 @@
+(self.webpackChunk_mc_monolith=self.webpackChunk_mc_monolith||[]).push([[6300],{EnmM:(e,n,l)=>{"use strict";var m=l("yN5n");new(l.n(m)())({elements_selector:".lazy"})}},0,[["EnmM",9912,4736]]]);
